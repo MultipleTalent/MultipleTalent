@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## I love astronomy!
 
-You can use the [editor on GitHub](https://github.com/MultipleTalent/MultipleTalent/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! My name is @MultipleTalent and one of the things I am the most interested in is astronomy! I love the different planets, exoplanets, dwarfs, stars, and especially the mysteries! Mysteries that scientists don't know a lot about.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
